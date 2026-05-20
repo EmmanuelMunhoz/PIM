@@ -1,0 +1,5012 @@
+[
+    {
+        "id_venda": 1,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "05/04/2026 09:04",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 2,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "13/04/2025 14:26",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 3,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "01/09/2024 22:34",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 4,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "04/03/2025 08:48",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 5,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "14/04/2026 20:54",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 6,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "07/01/2026 12:29",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 7,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "24/11/2025 11:00",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 8,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "05/04/2025 12:00",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 9,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "02/01/2025 19:09",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 10,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "19/07/2024 21:27",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 11,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "27/12/2025 18:49",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 12,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "21/11/2024 17:53",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 13,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "16/04/2025 14:26",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 14,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "29/11/2024 16:00",
+        "quantidade": 8,
+        "valor_total": 800.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 15,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "28/04/2026 14:40",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 16,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "18/06/2024 09:36",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 17,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "12/01/2024 18:12",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 18,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "23/11/2025 09:00",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 19,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "20/12/2025 18:45",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 20,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "19/02/2024 15:36",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 21,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "29/04/2025 11:21",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 22,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "26/08/2025 22:21",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 23,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "23/02/2026 19:06",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 24,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "03/09/2025 13:21",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 25,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "18/11/2025 21:25",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 26,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "07/03/2025 12:32",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 27,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "02/10/2025 10:39",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 28,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "24/07/2024 07:20",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 29,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "13/08/2024 10:20",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 30,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "07/02/2025 09:45",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 31,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "12/08/2025 10:02",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 32,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "17/06/2024 10:32",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 33,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "05/05/2025 12:17",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 34,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "30/12/2025 12:24",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 35,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "28/07/2025 12:51",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 36,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "18/04/2025 15:23",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 37,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "29/05/2024 18:26",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 38,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "14/09/2025 22:40",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 39,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "05/04/2025 22:14",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 40,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "20/09/2025 20:45",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 41,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "21/01/2026 06:05",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 42,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "21/12/2024 10:50",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 43,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "11/11/2024 09:57",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 44,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "26/02/2024 21:59",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 45,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "26/02/2024 16:17",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 46,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "15/03/2024 08:32",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 47,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "30/08/2025 20:14",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 48,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "26/03/2026 22:31",
+        "quantidade": 8,
+        "valor_total": 800.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 49,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "08/01/2025 17:56",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 50,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "14/01/2025 15:33",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 51,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "24/12/2024 18:44",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 52,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "20/04/2025 14:07",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 53,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "30/07/2024 22:06",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 54,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "09/10/2024 11:43",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 55,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "28/04/2024 22:12",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 56,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "30/09/2025 18:41",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 57,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "04/02/2025 06:28",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 58,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "15/11/2025 07:00",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 59,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "03/11/2024 08:24",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 60,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "31/05/2025 14:20",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 61,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "29/04/2026 13:40",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 62,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "16/08/2024 13:23",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 63,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "07/07/2024 11:42",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 64,
+        "id_socio": 436503,
+        "nome": "Bruna Sales Luz",
+        "data": "10/08/2025 16:08",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 65,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "16/06/2025 20:31",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 66,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "06/06/2024 08:52",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 67,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "01/05/2024 15:35",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 68,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "23/03/2025 20:11",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 69,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "11/12/2024 19:22",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 70,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "01/01/2026 20:37",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 71,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "04/02/2025 15:03",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 72,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "02/05/2025 16:05",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 73,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "24/05/2024 19:19",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 74,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "17/08/2024 17:17",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 75,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "26/04/2026 19:16",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 76,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "12/03/2024 13:34",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 77,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "25/08/2025 16:19",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 78,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "01/10/2024 19:00",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 79,
+        "id_socio": 436503,
+        "nome": "Bruna Sales Luz",
+        "data": "20/02/2026 11:24",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 80,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "31/08/2024 14:46",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 81,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "02/10/2025 20:50",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 82,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "30/08/2025 21:58",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 83,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "18/01/2025 19:38",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 84,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "07/03/2024 10:32",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 85,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "08/12/2025 19:02",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 86,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "06/03/2026 20:21",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 87,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "13/02/2026 16:50",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 88,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "20/05/2024 06:23",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 89,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "08/05/2025 12:04",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 90,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "28/06/2025 20:14",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 91,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "06/10/2024 22:31",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 92,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "31/03/2026 13:52",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 93,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "02/12/2024 15:47",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 94,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "27/08/2024 22:09",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 95,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "04/10/2025 17:22",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 96,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "04/02/2024 15:34",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 97,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "29/12/2025 18:57",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 98,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "23/03/2026 23:30",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 99,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "02/10/2025 18:03",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 100,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "06/06/2025 20:24",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 101,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "09/02/2024 16:00",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 102,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "23/02/2025 17:34",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 103,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "25/10/2025 22:28",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 104,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "24/09/2024 21:34",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 105,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "23/04/2025 07:20",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 106,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "28/01/2026 14:16",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 107,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "24/04/2024 14:04",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 108,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "11/04/2026 20:51",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 109,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "22/03/2024 14:34",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 110,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "16/03/2024 20:40",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 111,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "21/05/2024 17:44",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 112,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "15/08/2025 20:16",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 113,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "19/10/2025 16:26",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 114,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "12/04/2024 11:21",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 115,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "14/08/2025 08:09",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 116,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "16/10/2025 19:14",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 117,
+        "id_socio": 189767,
+        "nome": "Rafael Jose Francisco Oliveira",
+        "data": "20/11/2024 11:14",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 118,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "26/06/2025 10:38",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 119,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "02/05/2026 14:43",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 120,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "28/05/2024 12:36",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 121,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "04/05/2025 19:52",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 122,
+        "id_socio": 189767,
+        "nome": "Rafael Jose Francisco Oliveira",
+        "data": "28/06/2025 13:31",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 123,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "21/01/2024 07:34",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 124,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "24/11/2025 20:25",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 125,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "31/12/2024 19:40",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 126,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "01/06/2025 11:48",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 127,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "16/04/2024 14:53",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 128,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "01/03/2026 14:16",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 129,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "17/07/2025 21:16",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 130,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "05/09/2024 14:48",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 131,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "08/04/2026 16:46",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 132,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "15/05/2025 15:10",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 133,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "09/06/2025 12:33",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 134,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "02/03/2025 12:47",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 135,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "09/01/2025 09:29",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 136,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "23/09/2025 06:17",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 137,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "09/11/2025 06:12",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 138,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "15/10/2024 09:34",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 139,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "11/06/2025 14:32",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 140,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "02/08/2025 08:39",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 141,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "25/08/2024 14:16",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 142,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "24/10/2025 13:19",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 143,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "30/09/2025 16:26",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 144,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "16/03/2024 19:59",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 145,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "18/02/2024 06:31",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 146,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "13/09/2025 10:16",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 147,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "27/08/2024 21:06",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 148,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "26/02/2025 08:28",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 149,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "06/10/2024 16:07",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 150,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "08/04/2025 06:33",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 151,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "16/08/2025 22:28",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 152,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "05/07/2024 13:39",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 153,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "23/04/2025 13:58",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 154,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "30/04/2026 19:30",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 155,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "07/09/2024 20:47",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 156,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "26/05/2024 13:13",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 157,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "26/07/2024 08:37",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 158,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "13/07/2024 21:05",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 159,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "25/03/2026 17:15",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 160,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "17/03/2025 14:26",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 161,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "16/06/2024 16:07",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 162,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "18/03/2024 13:21",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 163,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "19/10/2025 21:20",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 164,
+        "id_socio": 189767,
+        "nome": "Rafael Jose Francisco Oliveira",
+        "data": "25/08/2024 14:03",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 165,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "14/06/2024 10:17",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 166,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "28/03/2025 15:43",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 167,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "21/01/2024 23:11",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 168,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "11/01/2024 20:40",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 169,
+        "id_socio": 189767,
+        "nome": "Rafael Jose Francisco Oliveira",
+        "data": "15/01/2026 14:08",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 170,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "16/01/2026 15:28",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 171,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "07/10/2025 10:37",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 172,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "09/04/2026 11:12",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 173,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "22/04/2025 06:09",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 174,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "14/04/2025 12:27",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 175,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "20/07/2025 19:43",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 176,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "11/08/2025 08:38",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 177,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "09/05/2025 15:01",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 178,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "02/05/2026 23:02",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 179,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "13/12/2025 22:26",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 180,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "17/08/2025 13:20",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 181,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "01/01/2025 17:13",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 182,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "08/04/2024 21:20",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 183,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "24/01/2024 14:25",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 184,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "21/09/2024 18:30",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 185,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "01/01/2024 17:41",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 186,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "22/02/2026 13:13",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 187,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "02/03/2025 19:39",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 188,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "18/12/2024 13:24",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 189,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "06/04/2025 08:29",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 190,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "17/04/2025 11:51",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 191,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "11/11/2025 19:39",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 192,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "22/02/2025 08:34",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 193,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "20/11/2025 23:24",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 194,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "23/12/2024 22:34",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 195,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "03/08/2025 18:37",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 196,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "04/02/2024 14:54",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 197,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "09/11/2024 13:14",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 198,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "04/11/2025 19:51",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 199,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "29/09/2025 22:59",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 200,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "13/10/2024 23:07",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 201,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "05/12/2025 16:00",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 202,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "01/12/2024 08:44",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 203,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "25/02/2025 12:13",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 204,
+        "id_socio": 436503,
+        "nome": "Bruna Sales Luz",
+        "data": "28/02/2024 18:06",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 205,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "25/04/2026 20:56",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 206,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "20/08/2024 16:13",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 207,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "24/01/2024 11:45",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 208,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "03/01/2026 17:30",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 209,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "04/09/2024 17:05",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 210,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "05/07/2024 16:58",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 211,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "23/01/2025 09:05",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 212,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "26/01/2025 17:20",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 213,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "04/05/2025 17:46",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 214,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "01/03/2025 10:13",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 215,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "11/05/2024 14:34",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 216,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "31/12/2025 11:39",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 217,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "19/08/2024 06:24",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 218,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "03/06/2025 22:06",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 219,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "01/09/2025 14:07",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 220,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "09/04/2026 13:42",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 221,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "22/06/2024 14:55",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 222,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "01/05/2026 09:29",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 223,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "08/01/2024 18:16",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 224,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "18/03/2025 15:17",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 225,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "28/03/2025 21:34",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 226,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "25/11/2024 22:30",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 227,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "05/06/2025 08:04",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 228,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "31/01/2024 14:04",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 229,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "16/10/2024 15:58",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 230,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "08/01/2026 14:17",
+        "quantidade": 8,
+        "valor_total": 800.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 231,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "08/02/2024 21:03",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 232,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "22/02/2025 18:34",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 233,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "31/03/2024 07:42",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 234,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "12/06/2024 21:53",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 235,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "03/01/2024 19:55",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 236,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "06/10/2025 10:11",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 237,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "30/04/2026 22:51",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 238,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "21/10/2025 10:06",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 239,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "27/05/2025 07:15",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 240,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "10/03/2026 08:01",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 241,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "16/05/2025 10:15",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 242,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "12/12/2025 16:14",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 243,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "13/12/2025 22:45",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 244,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "15/01/2024 09:09",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 245,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "17/01/2026 14:55",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 246,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "04/11/2024 07:59",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 247,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "02/04/2025 15:10",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 248,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "02/01/2024 09:26",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 249,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "13/02/2026 20:34",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 250,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "13/07/2024 14:47",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 251,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "20/06/2025 14:30",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 252,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "28/06/2025 09:22",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 253,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "20/08/2025 11:29",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 254,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "31/01/2025 10:17",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 255,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "20/10/2025 13:31",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 256,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "27/10/2025 22:37",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 257,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "19/03/2025 08:15",
+        "quantidade": 8,
+        "valor_total": 800.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 258,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "14/01/2025 19:12",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 259,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "15/01/2025 13:15",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 260,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "07/03/2025 08:09",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 261,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "20/10/2025 11:14",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 262,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "14/04/2024 06:17",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 263,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "28/05/2025 19:38",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 264,
+        "id_socio": 250717,
+        "nome": "Patricia Reis Cunha",
+        "data": "08/01/2025 21:18",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 265,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "24/05/2024 18:31",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 266,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "17/03/2025 14:10",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 267,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "19/05/2024 20:28",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 268,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "16/12/2025 10:58",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 269,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "20/09/2025 09:48",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 270,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "13/11/2025 08:40",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 271,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "28/03/2026 10:24",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 272,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "09/09/2024 11:08",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 273,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "16/09/2024 14:11",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 274,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "30/07/2024 17:50",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 275,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "01/05/2026 16:42",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 276,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "05/02/2024 13:21",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 277,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "18/06/2024 16:30",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 278,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "07/02/2024 14:46",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 279,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "11/01/2025 17:47",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 280,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "13/12/2024 22:57",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 281,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "02/01/2024 10:12",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 282,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "25/11/2024 22:10",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 283,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "18/10/2024 20:11",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 284,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "08/02/2026 18:35",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 285,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "23/04/2024 09:18",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 286,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "08/02/2026 08:30",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 287,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "09/12/2024 19:46",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 288,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "24/09/2024 16:33",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 289,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "01/12/2025 13:08",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 290,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "11/05/2024 22:33",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 291,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "19/05/2024 18:05",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 292,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "23/09/2024 20:56",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 293,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "17/04/2026 15:37",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 294,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "10/02/2025 08:58",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 295,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "08/02/2024 22:28",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 296,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "10/02/2024 22:41",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 297,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "27/03/2024 08:52",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 298,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "29/08/2024 08:17",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 299,
+        "id_socio": 300029,
+        "nome": "Fabiana Fernandes Freitas Ferreira",
+        "data": "26/06/2025 19:52",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 300,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "07/09/2024 11:57",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 301,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "23/06/2025 09:50",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 302,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "18/07/2024 16:49",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 303,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "03/12/2025 20:45",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 304,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "20/08/2025 07:19",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 305,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "04/05/2024 18:56",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 306,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "12/09/2024 15:16",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 307,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "03/03/2025 16:51",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 308,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "06/06/2024 16:47",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 309,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "09/11/2024 22:26",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 310,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "14/06/2025 21:09",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 311,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "12/06/2025 08:15",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 312,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "07/04/2026 09:49",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 313,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "06/03/2025 13:57",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 314,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "30/09/2024 06:53",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 315,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "19/09/2024 16:19",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 316,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "24/12/2024 13:53",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 317,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "25/09/2025 08:50",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 318,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "23/01/2025 17:37",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 319,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "06/07/2024 20:40",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 320,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "06/11/2025 10:53",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 321,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "26/05/2024 20:56",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 322,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "13/09/2025 21:24",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 323,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "21/03/2026 22:43",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 324,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "12/11/2024 12:16",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 325,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "22/04/2024 07:46",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 326,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "06/02/2024 10:53",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 327,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "16/05/2024 20:23",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 328,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "06/07/2025 15:45",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 329,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "05/05/2026 09:11",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 330,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "09/04/2025 16:56",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 331,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "07/10/2024 19:38",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 332,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "18/07/2024 16:33",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 333,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "26/04/2026 18:28",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 334,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "07/01/2026 12:31",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 335,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "28/07/2025 09:08",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 336,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "06/02/2024 14:03",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 337,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "22/10/2025 13:08",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 338,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "01/02/2025 10:38",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 339,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "20/09/2024 16:31",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 340,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "13/11/2025 11:27",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 341,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "11/02/2026 11:53",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 342,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "05/05/2024 18:11",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 343,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "14/03/2025 18:09",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 344,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "14/03/2026 12:48",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 345,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "12/04/2025 22:07",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 346,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "01/11/2024 19:23",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 347,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "14/03/2024 22:12",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 348,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "26/09/2024 23:17",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 349,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "11/09/2025 11:53",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 350,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "14/08/2025 23:05",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 351,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "01/03/2026 19:30",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 352,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "09/12/2024 16:51",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 353,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "08/09/2024 22:08",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 354,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "06/01/2024 11:26",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 355,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "03/05/2026 15:54",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 356,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "06/06/2025 08:05",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 357,
+        "id_socio": 316084,
+        "nome": "Roberto Vieira",
+        "data": "12/10/2025 19:46",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 358,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "30/06/2025 07:26",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 359,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "07/09/2025 14:00",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 360,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "21/02/2025 09:37",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 361,
+        "id_socio": 436503,
+        "nome": "Bruna Sales Luz",
+        "data": "08/01/2026 09:45",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 362,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "06/08/2024 19:04",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 363,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "06/07/2024 10:53",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 364,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "26/04/2026 23:19",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 365,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "05/08/2024 21:42",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 366,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "04/12/2025 14:11",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 367,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "21/04/2024 23:30",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 368,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "03/07/2025 12:28",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 369,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "31/07/2024 06:00",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 370,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "21/02/2026 18:25",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 371,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "15/07/2024 14:06",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 372,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "28/09/2024 15:13",
+        "quantidade": 7,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 373,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "22/12/2024 20:41",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 374,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "31/08/2025 16:27",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 375,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "18/12/2025 21:20",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 376,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "14/02/2024 10:56",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 377,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "05/07/2024 20:13",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 378,
+        "id_socio": 436503,
+        "nome": "Bruna Sales Luz",
+        "data": "02/11/2024 15:27",
+        "quantidade": 8,
+        "valor_total": 800.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 379,
+        "id_socio": 627972,
+        "nome": "Paulo Cunha Antonio Miranda",
+        "data": "07/05/2025 16:49",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 380,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "01/04/2024 07:50",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 381,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "07/06/2025 20:19",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 382,
+        "id_socio": 299692,
+        "nome": "Ana Pinheiro Barros",
+        "data": "03/03/2025 23:08",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 383,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "02/02/2025 14:00",
+        "quantidade": 5,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 384,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "18/01/2024 10:20",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 385,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "14/11/2024 21:43",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 386,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "09/01/2024 07:35",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 387,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "01/07/2025 17:14",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 388,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "15/06/2024 08:49",
+        "quantidade": 8,
+        "valor_total": 800.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 389,
+        "id_socio": 919656,
+        "nome": "Arthur Francisco Jesus",
+        "data": "23/11/2024 07:49",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 390,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "24/02/2025 07:24",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 391,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "10/11/2025 10:34",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 392,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "07/01/2024 09:00",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 393,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "01/01/2025 21:05",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 394,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "04/10/2024 07:11",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 395,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "24/12/2024 13:05",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 396,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "27/06/2024 07:15",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 397,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "09/12/2024 17:21",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 398,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "05/11/2024 15:08",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 399,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "25/10/2024 07:47",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 400,
+        "id_socio": 696402,
+        "nome": "Vanessa Ramos",
+        "data": "09/09/2025 10:35",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 401,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "28/03/2024 22:20",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 402,
+        "id_socio": 779437,
+        "nome": "Marcelo Matos",
+        "data": "26/03/2024 09:37",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 403,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "28/01/2026 09:28",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 404,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "23/01/2026 19:16",
+        "quantidade": 6,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 405,
+        "id_socio": 617765,
+        "nome": "Aline Camargo",
+        "data": "03/02/2026 17:52",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 406,
+        "id_socio": 889464,
+        "nome": "Sofia Braga",
+        "data": "09/01/2026 17:25",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 407,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "18/01/2024 15:57",
+        "quantidade": 2,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 408,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "04/05/2025 23:16",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 409,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "07/05/2024 19:45",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 410,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "13/10/2024 17:59",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 411,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "16/10/2025 20:17",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 412,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "04/02/2025 18:44",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 413,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "23/11/2025 13:37",
+        "quantidade": 3,
+        "valor_total": 75.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 414,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "26/03/2026 22:04",
+        "quantidade": 2,
+        "valor_total": 200.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 415,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "21/12/2024 12:59",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 416,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "22/03/2025 18:21",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 417,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "29/11/2025 15:02",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 418,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "04/01/2026 08:02",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 419,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "12/04/2025 19:45",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 420,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "24/09/2024 07:24",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 421,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "03/04/2024 11:10",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 422,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "26/07/2024 17:45",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 423,
+        "id_socio": 382657,
+        "nome": "Luciana Francisco Filho Nascimento",
+        "data": "14/10/2024 15:25",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 424,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "28/01/2025 21:50",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 425,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "10/05/2025 21:52",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 426,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "26/09/2024 19:09",
+        "quantidade": 5,
+        "valor_total": 125.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 427,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "16/02/2024 06:00",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 428,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "06/04/2026 17:59",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 429,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "05/04/2024 06:36",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 430,
+        "id_socio": 347462,
+        "nome": "Davi Ramos",
+        "data": "19/09/2024 06:00",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 431,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "19/01/2026 10:31",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 432,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "26/11/2025 19:20",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 433,
+        "id_socio": 964818,
+        "nome": "Roberto Viana Teixeira Xavier",
+        "data": "23/11/2025 13:21",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 434,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "31/01/2026 11:06",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 435,
+        "id_socio": 824683,
+        "nome": "Carla Abreu Guimaraes",
+        "data": "12/01/2024 10:12",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 436,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "18/09/2025 12:26",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 437,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "25/03/2026 12:42",
+        "quantidade": 8,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 438,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "24/02/2025 06:29",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 439,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "28/08/2024 10:08",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 440,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "18/04/2026 07:22",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 441,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "07/11/2025 21:06",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 442,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "27/02/2025 20:26",
+        "quantidade": 1,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 443,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "24/04/2024 13:37",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 444,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "26/03/2026 21:44",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 445,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "24/04/2025 14:36",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 446,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "16/05/2025 10:08",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 447,
+        "id_socio": 436503,
+        "nome": "Bruna Sales Luz",
+        "data": "12/01/2024 19:40",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 448,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "25/02/2024 14:12",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 449,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "14/03/2025 15:41",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 450,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "25/04/2024 12:20",
+        "quantidade": 8,
+        "valor_total": 200.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 451,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "25/02/2024 15:47",
+        "quantidade": 8,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 452,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "14/12/2025 16:02",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 453,
+        "id_socio": 934747,
+        "nome": "Carla Monteiro Goncalves",
+        "data": "27/01/2024 09:34",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 454,
+        "id_socio": 752102,
+        "nome": "Matheus Sousa Alves Duarte",
+        "data": "07/03/2024 19:53",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 455,
+        "id_socio": 439913,
+        "nome": "Fabio Antonio",
+        "data": "11/08/2024 14:33",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 456,
+        "id_socio": 981101,
+        "nome": "Renato Luz Moura",
+        "data": "20/07/2025 23:28",
+        "quantidade": 1,
+        "valor_total": 100.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 457,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "04/09/2024 19:50",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 458,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "12/09/2025 23:28",
+        "quantidade": 9,
+        "valor_total": 562.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 459,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "11/09/2024 19:55",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 460,
+        "id_socio": 588578,
+        "nome": "Julio Faria",
+        "data": "18/03/2024 18:23",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 461,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "27/09/2024 07:30",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 462,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "30/07/2025 15:52",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 463,
+        "id_socio": 293057,
+        "nome": "Sonia Brito Macedo Garcia",
+        "data": "23/11/2025 20:19",
+        "quantidade": 4,
+        "valor_total": 100.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 464,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "10/04/2025 19:16",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 465,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "12/04/2025 15:43",
+        "quantidade": 7,
+        "valor_total": 437.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 466,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "28/04/2026 18:26",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 467,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "21/06/2025 17:34",
+        "quantidade": 3,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 468,
+        "id_socio": 783978,
+        "nome": "Julia Souza Pinto",
+        "data": "03/04/2026 12:28",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 469,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "01/03/2026 15:54",
+        "quantidade": 6,
+        "valor_total": 600.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 470,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "15/10/2024 12:06",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 471,
+        "id_socio": 108827,
+        "nome": "Amanda Moraes Anjos Melo",
+        "data": "30/06/2025 19:42",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 472,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "18/07/2025 12:30",
+        "quantidade": 6,
+        "valor_total": 150.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 473,
+        "id_socio": 131555,
+        "nome": "Thiago Araujo Ferreira Chaves",
+        "data": "15/12/2025 12:28",
+        "quantidade": 3,
+        "valor_total": 300.0,
+        "pagamento": "Cartão",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 474,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "19/02/2025 14:20",
+        "quantidade": 4,
+        "valor_total": 400.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 475,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "18/03/2024 17:23",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 476,
+        "id_socio": 630931,
+        "nome": "Davi Queiroz",
+        "data": "01/02/2024 21:34",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 477,
+        "id_socio": 985283,
+        "nome": "Sandra Almeida",
+        "data": "28/03/2024 14:04",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 478,
+        "id_socio": 210608,
+        "nome": "Rogerio Morais Carneiro",
+        "data": "31/03/2025 17:11",
+        "quantidade": 4,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 479,
+        "id_socio": 636579,
+        "nome": "Igor Pimenta Caires Cândidão",
+        "data": "04/08/2024 20:59",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 480,
+        "id_socio": 106210,
+        "nome": "Cristiane Lopes",
+        "data": "10/04/2024 11:24",
+        "quantidade": 7,
+        "valor_total": 700.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 481,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "17/02/2025 19:15",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 482,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "30/05/2025 18:22",
+        "quantidade": 3,
+        "valor_total": 187.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 483,
+        "id_socio": 465143,
+        "nome": "Davi Rosa",
+        "data": "22/12/2025 17:17",
+        "quantidade": 4,
+        "valor_total": 250.0,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 484,
+        "id_socio": 536594,
+        "nome": "Rodrigo Martins Aparecida",
+        "data": "12/04/2026 16:29",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 485,
+        "id_socio": 405689,
+        "nome": "Claudia Pires Cavalcante Cardoso",
+        "data": "25/06/2024 14:04",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 486,
+        "id_socio": 189767,
+        "nome": "Rafael Jose Francisco Oliveira",
+        "data": "19/03/2026 17:36",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 487,
+        "id_socio": 839435,
+        "nome": "Jose Braga Alves Luz",
+        "data": "04/10/2025 16:38",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 488,
+        "id_socio": 736712,
+        "nome": "Emmanuel Munhoz",
+        "data": "27/12/2024 22:20",
+        "quantidade": 9,
+        "valor_total": 225.0,
+        "pagamento": "Cartão",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 489,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "12/07/2025 17:02",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 490,
+        "id_socio": 167632,
+        "nome": "Vinicius Dias Fernandes Paiva",
+        "data": "01/11/2025 18:40",
+        "quantidade": 1,
+        "valor_total": 25.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 491,
+        "id_socio": 331390,
+        "nome": "Daniela Paula Vieira Moraes",
+        "data": "05/03/2025 13:09",
+        "quantidade": 1,
+        "valor_total": 62.5,
+        "pagamento": "Cartão",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 492,
+        "id_socio": 733756,
+        "nome": "Lucas Pereira",
+        "data": "24/01/2024 23:17",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Boleto",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 493,
+        "id_socio": 906318,
+        "nome": "Raquel Duarte Anjos Barbosa",
+        "data": "13/08/2025 18:00",
+        "quantidade": 2,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 494,
+        "id_socio": 809980,
+        "nome": "Lara Rosa",
+        "data": "22/05/2025 22:29",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Boleto",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 495,
+        "id_socio": 489302,
+        "nome": "Manoel Neto Felix",
+        "data": "23/09/2025 09:37",
+        "quantidade": 9,
+        "valor_total": 0,
+        "pagamento": "Grátis",
+        "plano": "Ouro"
+    },
+    {
+        "id_venda": 496,
+        "id_socio": 440207,
+        "nome": "Bruno Correa",
+        "data": "29/03/2025 09:53",
+        "quantidade": 2,
+        "valor_total": 50.0,
+        "pagamento": "Pix",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 497,
+        "id_socio": 520261,
+        "nome": "Larissa Azevedo Siqueira Santos",
+        "data": "27/01/2024 18:32",
+        "quantidade": 6,
+        "valor_total": 375.0,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    },
+    {
+        "id_venda": 498,
+        "id_socio": 831083,
+        "nome": "Enzo Camargo",
+        "data": "15/04/2026 15:06",
+        "quantidade": 9,
+        "valor_total": 900.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 499,
+        "id_socio": 765822,
+        "nome": "Andreia Batista Sousa",
+        "data": "18/01/2024 07:00",
+        "quantidade": 5,
+        "valor_total": 500.0,
+        "pagamento": "Pix",
+        "plano": "Bronze"
+    },
+    {
+        "id_venda": 500,
+        "id_socio": 153820,
+        "nome": "Thiago Franca Paiva",
+        "data": "01/03/2025 07:34",
+        "quantidade": 7,
+        "valor_total": 175.0,
+        "pagamento": "Boleto",
+        "plano": "Social"
+    },
+    {
+        "id_venda": 501,
+        "id_socio": 835335,
+        "nome": "Jorge Do Pneu",
+        "data": "11/05/2026 00:16",
+        "quantidade": 5,
+        "valor_total": 312.5,
+        "pagamento": "Pix",
+        "plano": "Prata"
+    }
+]
