@@ -34,13 +34,11 @@ Este projeto implementa um sistema de terminal para:
 pip install -r requirements.txt
 python main.py
 ```
-
 ## Executar o sistema
 
 ```powershell
 python main.py
 ```
-
 # Dependências
 
 * `pwinput`
