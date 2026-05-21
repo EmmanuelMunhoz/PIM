@@ -13,10 +13,10 @@ def escolha_seu_plano():
         print("ESCOLHA SEU PLANO".center(70))
         print("=" * 70 + "\n")
 
-        print(" [1] - Ouro   → 100% desconto - R$450,00/mês")
+        print(" [1] - Ouro   → 100% desconto - R$320,00/mês")
         print(" [2] - Social → 80% desconto [Consulte elegibilidade]")
-        print(" [3] - Prata  → 50% desconto - R$250,00/mês")
-        print(" [4] - Bronze → 20% desconto - R$89,90/mês\n")
+        print(" [3] - Prata  → 50% desconto - R$160,00/mês")
+        print(" [4] - Bronze → 20% desconto - R$80,00/mês\n")
 
         try:
             escolha = int(input("Escolha o plano: "))

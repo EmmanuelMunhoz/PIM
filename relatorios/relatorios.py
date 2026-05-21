@@ -184,13 +184,13 @@ def relatorio_financeiro():
         for socio in socios:
 
             if socio["plano"] == "Ouro":
-                total_planos += 450
+                total_planos += 320
 
             elif socio["plano"] == "Prata":
-                total_planos += 250
+                total_planos += 160
 
             elif socio["plano"] == "Bronze":
-                total_planos += 89.90
+                total_planos += 80.00
 
         total_ingressos = 0
 

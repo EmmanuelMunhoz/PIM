@@ -283,7 +283,11 @@ def pagamento_cartao():
             print("❌ Cartão inválido")
             continue
 
-        input("Digite a validade (MM/AA): ")
+        validade = input("Digite a validade (MM/AA): ").strip()
+
+        if not validar_validade_cartao(validade):
+            print("❌ Validade inválida ou cartão vencido")
+            continue
 
         cvv = input("Digite o CVV: ").strip()
 
@@ -295,6 +299,31 @@ def pagamento_cartao():
         print("✅ Pagamento aprovado!\n")
 
         return "Cartão"
+
+def validar_validade_cartao(validade):
+    try:
+        mes, ano = validade.split("/")
+
+        if len(mes) != 2 or len(ano) != 2:
+            return False
+
+        if not (mes.isdigit() and ano.isdigit()):
+            return False
+
+        mes = int(mes)
+        ano = 2000 + int(ano)
+
+        if mes < 1 or mes > 12:
+            return False
+
+        hoje = datetime.now()
+
+        if ano < hoje.year or (ano == hoje.year and mes < hoje.month):
+            return False
+
+        return True
+    except ValueError:
+        return False
 
 def gerar_boleto():
 
